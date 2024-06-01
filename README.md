@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+GitHub Repo link : https://github.com/kkpatidar1997/quiz-platform.git
 ## Available Scripts
 
 In the project directory, you can run:
@@ -63,7 +62,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+ weblink to deployment: https://quizplatformkkproject.netlify.app/
 
 ### `npm run build` fails to minify
 
